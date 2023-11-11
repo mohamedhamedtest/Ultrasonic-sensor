@@ -1,9 +1,4 @@
-/***************************************************************
- *  Source File: PWM_cfg.h
- *
- *  Description: PWM driver configuration for ATMEGA128
- *
- **************************************************************/
+
 #ifndef PWM_CFG_H_
 #define PWM_CFG_H_
 #include <avr/io.h>
