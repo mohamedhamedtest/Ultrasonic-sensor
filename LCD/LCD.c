@@ -2,7 +2,7 @@
 /*
  * LCD.c
  *
- * Author : Hossam Elbahrawy
+ * Author : GAZAR
  */
 #include "LCD.h"
 
