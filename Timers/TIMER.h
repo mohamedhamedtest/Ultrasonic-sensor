@@ -2,7 +2,7 @@
  * TIMER.h
  *
  *  Created on: Aug 27, 2023
- *      Author: user
+ *      Author: GAZAR
  */
 
 #ifndef TIMER_H_
