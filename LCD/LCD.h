@@ -1,7 +1,7 @@
 /*
  * LCD.h
  *
- * Author : Hossam Elbahrawy
+ * Author : GAZAR
  */
 
 #ifndef LCD_H_
